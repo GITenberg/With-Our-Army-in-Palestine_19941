@@ -1,0 +1,25 @@
+_repo: With-Our-Army-in-Palestine_19941
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bluett, Antony
+    gutenberg_agent_id: '8978'
+    url: http://www.gutenberg.org/2009/agents/8978
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2006-11-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19941'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Campaigns -- Palestine'
+title: With Our Army in Palestine
+url: http://www.gutenberg.org/ebooks/19941
